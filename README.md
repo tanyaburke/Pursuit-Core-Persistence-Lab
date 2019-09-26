@@ -24,6 +24,6 @@ You can sign up here: https://pixabay.com/en/service/about/api/
 
 ## Bonus 
 
-Allow the user to be able to delete a favorited Photo
-Allow the user to edit the properties in a favorited Photo
-Can share a favorite photo using a the built in iOS Share Sheet Using a UIActivityViewController
+- Allow the user to be able to delete a favorited Photo
+- Allow the user to edit the properties in a favorited Photo
+- Can share a favorite photo using a the built in iOS Share Sheet Using a UIActivityViewController
