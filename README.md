@@ -2,7 +2,11 @@
 
 Use the Pixabay API to search for and favorite photos
 
-Endpoint: https://pixabay.com/api/?key={YOUR API KEY GOES HERE}&q= =
+Endpoint: 
+
+```
+https://pixabay.com/api/?key={YOUR API KEY GOES HERE}&q=
+```
 
 You can sign up here: https://pixabay.com/en/service/about/api/
 
