@@ -1,5 +1,11 @@
 # Pursuit-Core-Persistence-Lab
 
+## Standards
+
+- IOS.4.f: Use FileManager to persist information
+- EF.10.h: Use URLSession to get data from online
+- EF.10.f: Use Codable and JSONDecoder to parse JSON data
+
 Use the Pixabay API to search for and favorite photos
 
 Endpoint: 
